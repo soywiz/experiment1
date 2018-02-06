@@ -1,3 +1,3 @@
 # experiment1
 
-tis is smthing bad writn
+This is something better written
